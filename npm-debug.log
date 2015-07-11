@@ -17,7 +17,7 @@
 10 error You can get their info via:
 10 error     npm owner ls quiz
 10 error There is likely additional logging output above.
-11 error System Linux 3.19.0-21-generic
+11 error System Linux 3.19.0-22-generic
 12 error command "/usr/bin/nodejs" "/usr/bin/npm" "start"
 13 error cwd /home/adolfo/proyecto_quiz/quiz
 14 error node -v v0.10.25
